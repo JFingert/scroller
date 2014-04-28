@@ -1,0 +1,32 @@
+body {
+	/*padding-top: 50px;*/
+}
+
+
+#top {
+	height: 70px;
+	width: 100%;
+}
+
+#Static, #Modx, #Wordpress, #Contact {
+	background-color: white;
+	border: solid 1px;
+}
+
+#accordion {
+	background-color: white;
+	border: solid 1px;
+}
+
+.container {
+	max-width: 1000px;
+}
+
+.jumbotron {
+	text-align: center;
+}
+
+a:visited{
+	text-decoration: none;
+}
+
